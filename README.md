@@ -22,3 +22,5 @@ mvn package
 
 Created as part of the Medieval Gold Seam 
 of the [Beyond 2022 project](https://beyond2022.ie/)
+
+[and see https://researchit.blogs.bristol.ac.uk/2022/05/30/working-with-beyond-2022-a-plugin-to-markup-regnal-dates-in-tei-xml/]
